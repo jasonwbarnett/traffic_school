@@ -1,0 +1,22 @@
+
+
+Brakes
+
+Failure or degraded performance of your brakes can lead to accidents. Your brakes should be inspected and maintained according to manufacturer's specifications. Periodically check the level of your brake fluid and maintain a full level. Periodically change your brake fluid according to the recommendations of your vehicle's manufacturer. Only use the weight of brake fluid they recommend.
+
+There are two independent braking systems in your vehicle, the service brakes and the parking brake (also referred to as the emergency brake). The service brakes are used to slow your vehicle while you are driving. Your stopping distance time is roughly proportional to the square of your speed, so if you double your speed you quadruple the distance to stop your car.
+
+Apply your brakes smoothly to avoid a locked-wheel skid. Anticipate when you will need to stop so you can do so gradually. Smooth, gradual braking will minimize the likelihood of being rear-ended and avoid unnecessary wear on your brakes.
+
+The parking brake can also be used to slow your vehicle in an emergency, but is mainly used to hold your vehicle in one place while stopped or parked. When you press your brake pedal, a piston in your master cylinder forces brake fluid through hydraulic lines to pistons in the wheel cylinders at the wheels where additional pistons provide the force to apply your brakes. Hydraulic fluid is stored in a brake fluid reservoir normally located in the engine compartment.
+
+Your parking brake uses a cable rather than a hydraulic system to engage your brakes or clamp down on your drive shaft and will therefore function even if your service brakes have failed.
+
+If the wheels are locked, as is the case of a skid, the drums or discs are not moving and there will be no friction. The purpose of anti-lock brake systems is to prevent the brakes from becoming locked by first sensing if they are locked and then automatically, rapidly releasing and applying pressure. If you do not have anti-lock brakes, you can avoid having your brakes lock by manually, rapidly releasing and then reapplying pressure to your brake pedal.
+
+Braking Techniques for ABS and non-ABS Equipped Vehicles
+
+A panel indicator showing "ABS" means that a vehicle is equipped with an anti-lock braking system. If you have an anti-lock braking system, you should keep constant pressure on the brake pedal while making an emergency stop.
+
+If you do not have an anti-lock braking system, you should use threshold braking. Threshold braking means that you apply and release pressure on your brake pedal in small increments at the skidding threshold. Keep the heel of your foot on the floor and use your toes to apply firm, steady pressure on the brake pedal. Stop the pressure just short of locking the wheels. If your heel leaves the floor, the ball of your foot pushes the pedal and the wheels lock up because you're controlling the brake with your thigh muscles, which are incapable of finer control.
+

@@ -1,0 +1,32 @@
+
+
+Instrument Panel Indicators
+
+The most common indicator lights, chimes, and gauges used for modern passenger vehicles are set in a display panel. You should know where they are typically located, how they are configured, their purposes, and what action to take if one activates.
+
+If a gauge or indicator is not working or does not appear to be providing correct data, it should be immediately repaired or replaced. The failure of instruments and panel indicators can lead to incorrect decisions which can cause an accident, a break-down, being stranded, and/or damage to your vehicle.
+
+The speedometer shows the speed at which your vehicle is operating in miles and/or kilometers per hour, and must be fully functional and accurate.
+
+The voltage gauge or "coil" relates to the battery or alternator light. If trouble is indicated, it means that the battery is not being charged. The problem will eventually bring things to a stop, but it doesn't require immediate or emergency attention.
+
+The "Check Engine" indicator means that your vehicle needs service. Some form of malfunction has been detected by the On Board Diagnostics System (OBDS), and you should determine the cause as soon as possible.
+
+Fasten your safety belts when you turn on the ignition and hear the chime and see the lighted seat belt icon.
+
+The high beam indicator is a lighted blue icon of a headlight, indicating that your high beams are on.
+
+Fluid Levels
+
+The fuel gauge shows the fuel remaining in your vehicle, either displayed digitally in gallons or miles of driving before empty, or in an analog manner showing the portion of a full tank remaining. The low fuel indicator warns you with a chime or lighted "Low Fuel" message.
+
+The oil gauge or warning light can signify that the oil level in the crankcase is low. Oil is a lubricant that reduces friction of the metal parts inside the engine. Without it they would create so much friction that eventually the parts will expand and be unable to move freely. Since this will cause permanent damage to the engine, it's important to check the engine oil using the dipstick protruding from the engine.
+
+The coolant temperature gauge warns you if your vehicle's coolant is overheating. If your coolant temperature is high or rising rapidly, avoid serious engine damage by stopping the vehicle and seeking assistance. Breakdowns, accidents and costly repairs are avoided by keeping your cooling system in good working order. This involves maintaining the level of the coolant and changing it according to manufacturer's recommendations.
+
+Hydraulic fluid levels can be checked at the reservoir either by using the dipstick or visually marking the level of fluid.
+
+The window washer fluid level can be checked by removing the cap from the window washer tank and checking the level of the fluid inside.
+
+Belts: You should also check for coolant leaks, cracks and deterioration in hoses and belts, and noises and leaks from your water pump. You should replace hoses and belts periodically (say, once every three years). Be aware of abrupt changes or trends in your engine temperature as indicated by the temperature gauge. These signal developing problems.
+
